@@ -16,11 +16,11 @@ https://elmas3.github.io/mao-seminar/
 その他 merge
 mainでstashがあったみたい。
 
-fddd
-=======
-test1
->>>>>>> Stashed changes
+conflict修正。
 
+=======
+stashするよ。
+>>>>>>> Stashed changes
 # ディレクトリ構成
 ```
 seminar/
