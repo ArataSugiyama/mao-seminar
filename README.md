@@ -19,6 +19,9 @@ mainでstashがあったみたい。
 
 conflict修正。
 
+
+MASTER
+
 =======
 stashするよ。
 >>>>>>> Stashed changes
