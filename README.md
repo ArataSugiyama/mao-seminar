@@ -8,6 +8,7 @@ https://elmas3.github.io/mao-seminar/
 エルマス
 教授
 その他
+その他２
 
 # ディレクトリ構成
 ```
