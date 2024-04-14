@@ -9,6 +9,7 @@ https://elmas3.github.io/mao-seminar/
 教授
 その他
 その他 dev2
+その他 dev2_2
 
 # ディレクトリ構成
 ```
