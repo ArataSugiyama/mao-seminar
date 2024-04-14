@@ -19,6 +19,8 @@ mainでstashがあったみたい。
 
 conflict修正。
 
+DEMOA
+
 =======
 stashするよ。
 >>>>>>> Stashed changes
