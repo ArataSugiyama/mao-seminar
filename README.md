@@ -14,6 +14,7 @@ https://elmas3.github.io/mao-seminar/
 そのたdev2_4
 
 その他 merge
+stashしたな、
 
 # ディレクトリ構成
 ```
