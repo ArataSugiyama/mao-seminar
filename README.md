@@ -20,7 +20,7 @@ mainでstashがあったみたい。
 conflict修正。
 
 DEMOA
-
+DEMO A MOD
 =======
 stashするよ。
 >>>>>>> Stashed changes
