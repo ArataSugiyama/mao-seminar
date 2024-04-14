@@ -14,8 +14,12 @@ https://elmas3.github.io/mao-seminar/
 そのたdev2_4
 
 その他 merge
+<<<<<<< Updated upstream
 stashしたな、
 fddd
+=======
+test1
+>>>>>>> Stashed changes
 
 # ディレクトリ構成
 ```
