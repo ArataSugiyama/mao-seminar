@@ -17,11 +17,12 @@ https://elmas3.github.io/mao-seminar/
 mainでstashがあったみたい。
 違うブランチにおいちゃった
 
-conflict修正。
+CONFLICTを修正したよ。
 
-
-MASTER
-
+=======
+DEMOA
+DEMO A MOD
+>>>>>>> 27e87cd (まちがえてDEMO Aにおいた)
 =======
 stashするよ。
 >>>>>>> Stashed changes
