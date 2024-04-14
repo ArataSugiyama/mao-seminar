@@ -15,6 +15,7 @@ https://elmas3.github.io/mao-seminar/
 
 その他 merge
 mainでstashがあったみたい。
+違うブランチにおいちゃった
 
 conflict修正。
 
