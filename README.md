@@ -19,6 +19,8 @@ mainでstashがあったみたい。
 
 CONFLICTを修正したよ。
 
+心機一転
+
 =======
 DEMOA
 DEMO A MOD
