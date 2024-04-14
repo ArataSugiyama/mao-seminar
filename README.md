@@ -21,14 +21,7 @@ CONFLICTを修正したよ。
 
 心機一転
 
-=======
-DEMOA
-DEMO A MOD
->>>>>>> 27e87cd (まちがえてDEMO Aにおいた)
-=======
-stashするよ。
->>>>>>> Stashed changes
-# ディレクトリ構成
+
 ```
 seminar/
 ├─ index.html        # トップページ
